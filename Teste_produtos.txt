@@ -1,0 +1,5 @@
+Mouse
+Teclado
+Impressora
+Monitor
+Camera

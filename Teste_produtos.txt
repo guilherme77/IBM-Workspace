@@ -3,3 +3,4 @@ Teclado
 Impressora
 Monitor
 Camera
+Scanner
